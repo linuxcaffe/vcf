@@ -1,3 +1,5 @@
+- note: This is a fork of https://github.com/l0b0/vcf, intended to expand features beyond the scope of the original project.
+
 vcf
 ===
 
